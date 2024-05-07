@@ -50,7 +50,8 @@
 ### Name:M.Ashwath
 ### Register Number:212223230023
 
-![image](https://github.com/divya280/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/82276099/e6412977-495d-4746-ab77-37e8fdfa0c7e)
+![Screenshot 2024-05-07 225426](https://github.com/Ashwathm12/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849225/9f844cdb-2529-45eb-84e3-34edaacd442d)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
