@@ -50,7 +50,8 @@
 ### Name:M.Ashwath
 ### Register Number:212223230023
 
-![Screenshot 2024-05-07 232416](https://github.com/Ashwathm12/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849225/94a60996-746b-45b2-b7c0-be21b560ff38)
+![Screenshot 2024-05-07 235024](https://github.com/Ashwathm12/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849225/6b2e4caa-7558-450e-9246-63ffd30ab052)
+
 
 
 
